@@ -36,8 +36,7 @@ Example:
 ddns.example.com
 ```
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9ee0b1c0-007a-48d3-bde0-b731e634cc7b" />
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/197bd202-5737-47be-86e7-ec88ee6d478e" />
 
 ---
 
