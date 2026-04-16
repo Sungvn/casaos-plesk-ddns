@@ -10,6 +10,7 @@ https://github.com/Sungvn/casaos-cpanel-ddns
 - Simple HTTP endpoint (`update.php`)
 - Works with CasaOS DDNS Webcall
 - Updates Plesk DNS A records automatically (homeserver.example.com) -> Url to your casaOS server
+- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7391da20-4d55-4fc3-9114-0646bc1cedfd" />
 - Secure via shared secret
 - Minimal dependencies
 - Uses Plesk CLI
@@ -34,6 +35,9 @@ Example:
 ```
 ddns.example.com
 ```
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9ee0b1c0-007a-48d3-bde0-b731e634cc7b" />
+
 
 ---
 
