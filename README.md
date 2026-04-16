@@ -1,7 +1,7 @@
 # casaos-plesk-ddns
 
-A lightweight Dynamic DNS (DDNS) webcall endpoint for Plesk, designed as a drop-in replacement for the cPanel DDNS feature used by CasaOS and created by myself.
-https://github.com/Sungvn/casaos-cpanel-ddns
+A lightweight Dynamic DNS (DDNS) webcall endpoint for Plesk, designed as a drop-in replacement for the cPanel & Plesk DDNS feature used by CasaOS and created by myself.
+## Refer to https://github.com/Sungvn/casaos-cpanel-ddns
 
 ---
 
@@ -195,7 +195,15 @@ Add host in `allowed_hosts`
 
 ## 📜 License
 
-MIT License
+MIT
+
+---
+
+## Author
+
+Created by Sungvn  
+Developer at vossenNetwork  
+https://vossen.network
 
 
 
