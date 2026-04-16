@@ -84,6 +84,8 @@ Add your host:
 ### 4. Enable sudo access (IMPORTANT)
 
 Plesk runs Domain as a system user (NOT root), so we must allow DNS commands.
+Find your domain username at -> Hosting & DNS -> Hosting -> System user's credentials
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/43505788-6b0c-4796-b70f-6785ea07f71d" />
 
 Run:
 
