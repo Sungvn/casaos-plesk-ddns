@@ -35,7 +35,6 @@ Example:
 ```
 ddns.example.com
 ```
-
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/197bd202-5737-47be-86e7-ec88ee6d478e" />
 
 ---
@@ -47,6 +46,7 @@ Upload these files to:
 ```
 /var/www/vhosts/example.com/ddns.example.com/
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6a5bc14d-2bad-44fa-8efc-7081d6a1c514" />
 
 Files:
 - `update.php`
